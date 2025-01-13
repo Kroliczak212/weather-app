@@ -1,0 +1,7 @@
+.weeklyForecast {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding-left: 2%;
+    padding-right: 2%;
+}

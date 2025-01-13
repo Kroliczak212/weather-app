@@ -1,0 +1,50 @@
+.Basic {
+  text-align: left;
+  font-size: 17px;
+  margin: 20px 0;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #1e1e1e;
+  border-radius: 16px;
+  padding: 16px 24px;
+  gap: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.detailBox {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  color: #ffffff;
+  background-color: #252222;
+  border: 1px solid #252222;
+  border-radius: 12px;
+  padding: 15px;
+  margin: 20px 0;
+}
+
+.detail {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.icon {
+  font-size: 50px;
+}
+
+.value {
+  font-size: 24px;
+  font-weight: semibold;
+  margin: 0;
+}
+
+.label {
+  font-size: 16px;
+  margin: 0;
+  color: #ffffff;
+}

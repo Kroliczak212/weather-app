@@ -1,0 +1,36 @@
+.TodayOverview {
+    font-size: 24px;
+  }
+  
+  .box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2%;
+  }
+  
+  .boxElement {
+    background-color: #252222;
+    border-radius: 12px;
+    padding: 10px 30px;
+    color: white;
+    width: 25%;
+    height: 20%;
+  }
+  
+  .boxElement2 {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .icon {
+    width: 70px;
+    height: 70px;
+    margin-top: 10px;
+  }
+  
+  .title {
+    font-size: 17px;
+    color: white;
+  }
+  

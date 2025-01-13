@@ -1,0 +1,28 @@
+.horizontalLine {
+  margin-top: 15px;
+  border-top: 1px solid #c2d4d3;
+  width: 100%;
+}
+
+.Box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Temp {
+  font-size: 96px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.City,
+.Date {
+  font-size: 25px;
+  font-weight: normal; 
+  margin: 0;
+}
+
+.weatherIcon {
+  width: 316px;
+  height: 316px;
+}
