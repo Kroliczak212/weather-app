@@ -19,7 +19,7 @@ prognoza na kolejne dni oraz godziny wschodu i zachodu słońca.
 ## 📷 Zrzut ekranu aplikacji
 
 ### Ekran główny
-![Ekran główny](./assets/screenshots/weatherapp.png)
+![Ekran główny](./src/assets/screenshots/weatherapp.png)
 
 ## 🚀 Jak uruchomić projekt
 1. Sklonuj repozytorium:
